@@ -1,0 +1,7 @@
+﻿  Pim.cpp
+c:\users\gabri\source\repos\pim ads2018\pim ads2018\pim.cpp(154): warning C4477: 'scanf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'int *'
+c:\users\gabri\source\repos\pim ads2018\pim ads2018\pim.cpp(228): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'int *'
+c:\users\gabri\source\repos\pim ads2018\pim ads2018\pim.cpp(265): warning C4477: 'scanf': a cadeia de formato '%d' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'char *'
+  c:\users\gabri\source\repos\pim ads2018\pim ads2018\pim.cpp(265): note: considere usar '%hhd' na cadeia de formato
+c:\users\gabri\source\repos\pim ads2018\pim ads2018\pim.cpp(294): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Pim ADS2018.vcxproj -> C:\Users\gabri\source\repos\Pim ADS2018\Debug\Pim ADS2018.exe
